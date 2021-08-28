@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="100036cf-32d6-4931-a145-6a1c98953fa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1u3bxTxJtb0A6eJDEXBPakS2bPB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4640078" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\workspace\optimize\connectTF\data" />
+      <recent name="C:\Users\Administrator\Desktop\irs20210617\online\src\main\scala\com\sdmctech\online" />
+      <recent name="C:\Users\Administrator\Desktop\irs20210617\online\src\main\scala\org\jpmml\sparkml\feature" />
+      <recent name="C:\Users\Administrator\Desktop\irs20210617\online\src\main\scala\org\apache\spark\ml\feature" />
+      <recent name="C:\Users\Administrator\Desktop\irs20210617\online\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.readDat">
+    <configuration name="LogisticRegressionApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.LogisticRegressionApplication" />
+      <module name="offline" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieSimilarityApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.MovieSimilarityApplication" />
+      <module name="offline" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayRecordRankApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.PlayRecordRankApplication" />
+      <module name="offline" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readDat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.readDat" />
+      <module name="connectTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test210812" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.test210812" />
+      <module name="connectTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogisticRegressionApplication" />
+      <item itemvalue="Application.MovieSimilarityApplication" />
+      <item itemvalue="Application.PlayRecordRankApplication" />
+      <item itemvalue="Application.test210812" />
+      <item itemvalue="Application.readDat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.readDat" />
+        <item itemvalue="Application.test210812" />
+        <item itemvalue="Application.PlayRecordRankApplication" />
+        <item itemvalue="Application.MovieSimilarityApplication" />
+        <item itemvalue="Application.LogisticRegressionApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="ignorePerformance" value="true" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="100036cf-32d6-4931-a145-6a1c98953fa8" name="Default Changelist" comment="" />
+      <created>1623897465193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623897465193</updated>
+      <workItem from="1623897466479" duration="93723000" />
+      <workItem from="1624012451043" duration="811000" />
+      <workItem from="1624258029672" duration="74178000" />
+      <workItem from="1624958941879" duration="1312000" />
+      <workItem from="1625034973601" duration="6710000" />
+      <workItem from="1625041881094" duration="14550000" />
+      <workItem from="1625104782747" duration="5467000" />
+      <workItem from="1626343337356" duration="9390000" />
+      <workItem from="1626401464879" duration="23034000" />
+      <workItem from="1626659525493" duration="7338000" />
+      <workItem from="1626674071480" duration="17223000" />
+      <workItem from="1626744719824" duration="11573000" />
+      <workItem from="1626762091024" duration="21327000" />
+      <workItem from="1628761610941" duration="9939000" />
+      <workItem from="1628823854705" duration="16472000" />
+      <workItem from="1629078325324" duration="19699000" />
+      <workItem from="1629167688532" duration="83999000" />
+      <workItem from="1629348720113" duration="17277000" />
+      <workItem from="1630125860317" duration="45000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1623899522133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623899522133</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1625063923258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625063923258</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1626431054910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626431054910</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1626753105878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626753105878</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1626773216369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626773216369</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1628848635240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628848635240</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1629192727665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629192727666</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="0" width="1018" height="1040" key="#&lt;template&gt;_of_Application" timestamp="1624696781871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="0" width="1018" height="1040" key="#&lt;template&gt;_of_Application/0.0.1920.1040@0.0.1920.1040" timestamp="1624696781871" />
+    <state x="486" y="0" width="960" height="1040" key="#CollaborativeFilteringApplication" timestamp="1626428783323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="486" y="0" width="960" height="1040" key="#CollaborativeFilteringApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626428783323" />
+    <state x="480" y="0" key="#DataFromHiveToHBaseApplication" timestamp="1626418869375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="480" y="0" key="#DataFromHiveToHBaseApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626418869375" />
+    <state x="490" y="0" width="960" height="1040" key="#EmbeddingProjectApp" timestamp="1625040371964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#EmbeddingProjectApp/0.0.1920.1040@0.0.1920.1040" timestamp="1625040371964" />
+    <state x="490" y="0" width="960" height="1040" key="#LogisticRegressionApplication" timestamp="1626694948363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#LogisticRegressionApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626694948363" />
+    <state x="490" y="0" width="960" height="1040" key="#MovieSimilarityApplication" timestamp="1626774703500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#MovieSimilarityApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626774703500" />
+    <state x="490" y="0" width="960" height="1040" key="#MyRedisConsumer" timestamp="1626662528756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#MyRedisConsumer/0.0.1920.1040@0.0.1920.1040" timestamp="1626662528756" />
+    <state x="490" y="0" width="960" height="1040" key="#Numeric2WordsApplication" timestamp="1626428571356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#Numeric2WordsApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626428571356" />
+    <state x="490" y="0" width="960" height="1040" key="#OneHotCodeHandleApplication" timestamp="1626425234587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#OneHotCodeHandleApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626425234587" />
+    <state x="490" y="0" width="960" height="1040" key="#PlayRecordRankApplication" timestamp="1626782606573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#PlayRecordRankApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1626782606573" />
+    <state x="184" y="0" key="#Project_Structure" timestamp="1625035894472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1625035894472" />
+    <state x="490" y="0" width="960" height="1040" key="#TransformAssetId2ID" timestamp="1626419611724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="0" width="960" height="1040" key="#TransformAssetId2ID/0.0.1920.1040@0.0.1920.1040" timestamp="1626419611724" />
+    <state x="684" y="255" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1629337145444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="255" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629337145444" />
+    <state x="406" y="144" width="1295" height="854" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626419652507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="406" y="144" width="1295" height="854" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626419652507" />
+    <state x="671" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1628842583690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1628842583690" />
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1629192725792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1629192725792" />
+    <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1628761718330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="155" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1628761718330" />
+    <state width="1852" height="366" key="GridCell.Tab.0.bottom" timestamp="1629443113404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629443113404" />
+    <state width="1852" height="366" key="GridCell.Tab.0.center" timestamp="1629443113404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="366" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629443113404" />
+    <state width="1852" height="366" key="GridCell.Tab.0.left" timestamp="1629443113404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="366" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629443113404" />
+    <state width="1852" height="366" key="GridCell.Tab.0.right" timestamp="1629443113404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="366" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629443113404" />
+    <state width="1852" height="439" key="GridCell.Tab.1.bottom" timestamp="1629355730653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="439" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629355730653" />
+    <state width="1852" height="439" key="GridCell.Tab.1.center" timestamp="1629355730653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="439" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629355730653" />
+    <state width="1852" height="439" key="GridCell.Tab.1.left" timestamp="1629355730653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="439" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629355730653" />
+    <state width="1852" height="439" key="GridCell.Tab.1.right" timestamp="1629355730653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="439" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629355730653" />
+    <state x="211" y="0" key="SettingsEditor" timestamp="1630125904603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="211" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630125904603" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1629354165496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1629354165496" />
+    <state x="683" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626677065514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1626677065514" />
+    <state x="-294" y="38" key="new project wizard" timestamp="1625057027599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-294" y="38" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625057027599" />
+    <state x="453" y="0" width="1009" height="1036" key="search.everywhere.popup" timestamp="1629189784449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="0" width="1009" height="1036" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1629189784449" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/application/LogisticRegressionApplication.scala</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/controller/LogisticRegressionController.scala</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/service/LogisticRegressionService.scala</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/service/PlayRecordRankService.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test/readDat.scala</url>
+          <line>196</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test/readDat.scala</url>
+          <line>168</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="item_id_all" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

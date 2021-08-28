@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false" scan="true"
+               scanPeriod="1 seconds">
+    <contextName>dms-api</contextName>
+    <property name="log.path" value="/data/logs/dms-api.log"/>
+
+    <appender name="console"
+              class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[forecast] [%d{yyyy-MM-dd HH:mm:ss.SSS} %highlight(%-5level) [%X{X-B3-TraceId} ,%X{traceId} ,%yellow(%X{X-B3-TraceId}),%green(%X{X-B3-SpanId}),%blue(%X{X-B3-ParentSpanId})] %yellow(%thread) %green(%logger) %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+
+    <root level="info">
+        <appender-ref ref="console"/>
+    </root>
+    <logger name="com.sdmc.www.api" level="DEBUG"/>
+
+</configuration>
