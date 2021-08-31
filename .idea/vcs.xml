@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/connectTF" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/datahandler" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/dataproducer" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/flink" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/hiveUDF" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/offline" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/online" vcs="svn" />
+  </component>
+</project>
