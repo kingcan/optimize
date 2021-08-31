@@ -6,14 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flink" />
-        <module name="datahandler" />
-        <module name="connectTF" />
-        <module name="dataproducer" />
-        <module name="offline" />
-        <module name="hiveUDF" />
-        <module name="online" />
         <module name="common" />
+        <module name="connectTF" />
+        <module name="datahandler" />
+        <module name="dataproducer" />
+        <module name="flink" />
+        <module name="hiveUDF" />
+        <module name="offline" />
+        <module name="online" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="100036cf-32d6-4931-a145-6a1c98953fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.svn/pristine/a8/a81dd191b091865fe2c7ad525a94b90080956b21.svn-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/common/TApplication.scala" beforeDir="false" afterPath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/common/TApplication.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/dao/DNNforIRSDao.scala" beforeDir="false" afterPath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/dao/DNNforIRSDao.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/service/DNNforIRSService.scala" beforeDir="false" afterPath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/service/DNNforIRSService.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/dataproducer/target/" />
+    <ignored path="$PROJECT_DIR$/datahandler/target/" />
+    <ignored path="$PROJECT_DIR$/connectTF/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/hiveUDF/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/flink/target/" />
+    <ignored path="$PROJECT_DIR$/offline/target/" />
+    <ignored path="$PROJECT_DIR$/online/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +30,36 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="122" />
+    <option name="width" value="1530" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1u3bxTxJtb0A6eJDEXBPakS2bPB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,7 +86,74 @@
       <recent name="C:\Users\Administrator\Desktop\workspace\optimize\connectTF\src\main\scala\com\sdmctech\connectTF\multitenant" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.DNNforIRSApp">
+    <configuration name="DNNforIRSApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.application.DNNforIRSApp" />
+      <module name="connectTF" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.connectTF.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MovieSimilarityApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.MovieSimilarityApplication" />
+      <module name="offline" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <shortenClasspath name="MANIFEST" />
+    </configuration>
+    <configuration name="PlayRecordRankApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.PlayRecordRankApplication" />
+      <module name="offline" />
+      <option name="PROGRAM_PARAMETERS" value="100019570647" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <shortenClasspath name="MANIFEST" />
+    </configuration>
+    <configuration name="readDat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.readDat" />
+      <module name="connectTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="test210812" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.test210812" />
+      <module name="connectTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,76 +207,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="DNNforIRSApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.application.DNNforIRSApp" />
-      <module name="connectTF" />
-      <option name="PROGRAM_PARAMETERS" value="100019570647" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdmctech.connectTF.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieSimilarityApplication" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.MovieSimilarityApplication" />
-      <module name="offline" />
-      <option name="PROGRAM_PARAMETERS" value="100019570647" />
-      <shortenClasspath name="MANIFEST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlayRecordRankApplication" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdmctech.offline.application.PlayRecordRankApplication" />
-      <module name="offline" />
-      <option name="PROGRAM_PARAMETERS" value="100019570647" />
-      <shortenClasspath name="MANIFEST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdmctech.offline.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="readDat" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.readDat" />
-      <module name="connectTF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test210812" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdmctech.connectTF.test.test210812" />
-      <module name="connectTF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdmctech.connectTF.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <list>
       <item itemvalue="Application.MovieSimilarityApplication" />
@@ -306,7 +333,7 @@
       <workItem from="1629348720113" duration="17277000" />
       <workItem from="1630125860317" duration="972000" />
       <workItem from="1630305936818" duration="9202000" />
-      <workItem from="1630316938992" duration="61941000" />
+      <workItem from="1630316938992" duration="65100000" />
     </task>
     <task id="LOCAL-00001">
       <created>1623899522133</created>
@@ -371,11 +398,51 @@
       <option name="project" value="LOCAL" />
       <updated>1630381894797</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20210828">
+      <created>1630406295259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630406295259</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="122" width="1530" height="1000" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965987" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -445,10 +512,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="671" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1630307165759" />
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1630381880518">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1630406275997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1630381880518" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1630406275997" />
     <state x="634" y="155" key="FileChooserDialogImpl" timestamp="1630372391331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -457,22 +524,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="369" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630126131052" />
-    <state width="1852" height="306" key="GridCell.Tab.0.bottom" timestamp="1630406058273">
+    <state width="926" height="142" key="GridCell.Tab.0.bottom" timestamp="1630407053147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1852" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630406058273" />
-    <state width="1852" height="306" key="GridCell.Tab.0.center" timestamp="1630406058273">
+    <state width="926" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630407053147" />
+    <state width="926" height="142" key="GridCell.Tab.0.center" timestamp="1630407053147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1852" height="306" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630406058273" />
-    <state width="1852" height="306" key="GridCell.Tab.0.left" timestamp="1630406058273">
+    <state width="926" height="142" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630407053147" />
+    <state width="926" height="142" key="GridCell.Tab.0.left" timestamp="1630407053147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1852" height="306" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630406058273" />
-    <state width="1852" height="306" key="GridCell.Tab.0.right" timestamp="1630406058273">
+    <state width="926" height="142" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630407053147" />
+    <state width="926" height="142" key="GridCell.Tab.0.right" timestamp="1630407053147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1852" height="306" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630406058273" />
+    <state width="926" height="142" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630407053147" />
     <state width="1852" height="510" key="GridCell.Tab.1.bottom" timestamp="1630405434985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -493,10 +560,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="211" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630125904603" />
-    <state x="352" y="122" key="Vcs.Push.Dialog.v2" timestamp="1630126120022">
+    <state x="352" y="122" key="Vcs.Push.Dialog.v2" timestamp="1630407060719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="122" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630126120022" />
+    <state x="352" y="122" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1630407060719" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1629354165496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -520,51 +587,61 @@
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/application/LogisticRegressionApplication.scala</url>
           <line>15</line>
+          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/controller/LogisticRegressionController.scala</url>
           <line>9</line>
+          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/service/LogisticRegressionService.scala</url>
           <line>33</line>
+          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/offline/src/main/scala/com/sdmctech/offline/service/PlayRecordRankService.scala</url>
           <line>28</line>
+          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test/readDat.scala</url>
           <line>196</line>
+          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test/readDat.scala</url>
           <line>168</line>
+          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/service/DNNforIRSService.scala</url>
           <line>87</line>
+          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/test/readDat.scala</url>
           <line>144</line>
+          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/dao/DNNforIRSDao.scala</url>
           <line>97</line>
+          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/connectTF/src/main/scala/com/sdmctech/connectTF/service/DNNforIRSService.scala</url>
           <line>30</line>
+          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
