@@ -11,6 +11,68 @@
 
     <artifactId>connectTF</artifactId>
 <dependencies>
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-client</artifactId>
+        <version>${hadoop.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-client -->
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-common</artifactId>
+        <version>${hadoop.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-hdfs</artifactId>
+        <version>${hadoop.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-hdfs-client</artifactId>
+        <version>${hadoop.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-nfs</artifactId>
+        <version>${hadoop.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-common</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-client -->
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-client</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-server -->
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-server</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-mapreduce -->
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-mapreduce</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-protocol -->
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-protocol</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.hbase/hbase-spark -->
+    <dependency>
+        <groupId>org.apache.hbase</groupId>
+        <artifactId>hbase-spark</artifactId>
+        <version>${hbase.version}</version>
+    </dependency>
+
     <!-- https://mvnrepository.com/artifact/com.linkedin.sparktfrecord/spark-tfrecord -->
     <dependency>
         <groupId>com.linkedin.sparktfrecord</groupId>
